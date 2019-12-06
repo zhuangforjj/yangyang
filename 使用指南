@@ -1,1 +1,2 @@
+在unix类系统下（mac、linux（ubuntu、redhat等））任一目录下，把hello.sh放进去
 ./hello.sh 文件夹的绝对路径
